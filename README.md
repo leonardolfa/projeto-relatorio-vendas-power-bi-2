@@ -2,7 +2,7 @@
 
 Este repositório contém uma versão atualizada de um projeto anterior de visualização de dados em dashboards interativos. A atualização inclui melhorias visuais, reorganização de elementos e adição de novos recursos de navegação entre páginas.
 
-🔗 **Repositório original**: [INSIRA O LINK AQUI]
+🔗 **Repositório original**: [Análise de Vendas e Lucro com Power BI](https://github.com/leonardolfa/projeto-relatorio-vendas-power-bi)
 
 ## ✨ Principais Atualizações
 
@@ -30,8 +30,7 @@ Esta página apresenta uma análise detalhada dos lucros por país, segmento, pr
 - Lucro por segmento e produto
 - Evolução trimestral com destaque de crescimento
 
-**Imagem da Página 1:**
-![Relatório de Lucro Detalhado](INSIRA_AQUI_O_CAMINHO_DA_IMAGEM)
+![Relatório de Vendas](img/01_sales.png)
 
 ---
 
@@ -44,8 +43,7 @@ Esta página permanece com a mesma estrutura e gráficos da versão anterior. El
 - Gráfico de linha: Tendência de vendas mensais
 - Tabela comparativa de lucros por trimestre (2013 vs. 2014)
 
-**Imagem da Página 2:**
-![Relatório de Vendas Detalhado](INSIRA_AQUI_O_CAMINHO_DA_IMAGEM)
+![Relatório de Lucro Detalhado](img/02_profit.png)
 
 ---
 
@@ -59,13 +57,7 @@ Esta é a nova adição ao projeto. A página foca na performance de vendas por 
 - Gráfico de linha: Evolução mensal das vendas
 - Tabela de vendas por trimestre (2013 e 2014)
 
-**Imagem da Página 3:**
-![Relatório de Produtos](INSIRA_AQUI_O_CAMINHO_DA_IMAGEM)
+![Relatório de Vendas Detalhado](img/03_Report.png)
 
 ---
 
-## 🚀 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
